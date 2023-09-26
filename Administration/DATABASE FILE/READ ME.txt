@@ -1,0 +1,14 @@
+
+/**CREATE DATABASE IN XAMPP**/
+
+DB Name: Laboratory
+
+Import the database from DATABASE FILE FOLDER.
+
+**Login Details For ADMIN**/
+
+username: joy/ joy@gmail.com
+password: joy@gmail.com
+
+**Login for students*
+CREATE ACCOUNT AND LOGIN WITH USERNAME/EMAIL AND PASSWORD SET.
